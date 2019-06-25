@@ -24,7 +24,7 @@ namespace BelieveOrNotBelieve
         {
             this.Close();
         }
-        // Обработчик пункта меню New
+        // Обработчик пункта меню
         private void miNew_Click(object sender, EventArgs e)
         {
             SaveFileDialog sfd = new SaveFileDialog();
